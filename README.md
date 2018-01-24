@@ -1,7 +1,13 @@
-## Welcome to GitHub Pages
+## Ketidaksesuaian
 
-ketidaksesuaian (unsuitabilities jamak) Kualitas yang tidak cocok.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ketidaksesuaian (unsuitabilities jamak) adalah  Kualitas yang tidak cocok.
+ini kalimat yang jelek banget sebenernya buat jadi pembuka dari sebuah blog, tapi mau gimana lagi saya memang ga cocok buat jadi seorang penulis,apalagi penulis blog kaya gini..hehe
+Sebenernya saya bingung mau menulis apa di blog ini, rencananya malah pengen cuma nulis "saya cantik" terus udah .
+tapi berhubung ada sesuatu yang menimpa saya, ya udah, makannya topik ini muncul di kepala saya. Ketidaksesuaian, hmm.. menurut saya pribadi artinya sesuatu yang gak sesuai sama apa yang kita mau .sama kayak saya yang mau ngadain pesta kejutan buat teman terbaik saya,tapi gagal atau terhalang sama keadaan, sama kayak ekspektasi kita yang jauh dari realita yang ada di dunia ini .tidak sesuai . mungkin sama kayak kalian yang baca blog ini, dan ekspektasi kalian udah tinggi tapi ternyata isinya cuma "sampah" curhatan saya hehe, makannya sebelum baca lebih jauh lagi dan semakin menyesal lebih baik cepet close aja dari blog saya .
+
+   
+
+
 
 ### Markdown
 
